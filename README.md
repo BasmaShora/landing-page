@@ -47,5 +47,5 @@
 * [scrollIntoView()](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
 
 ###  **Author's Name : Basma Shora**
-**Note: This is my first project at Udacity Front End Web Development Professional Nanodegree Program, and i used the udacity strater code**
+**Note: This is my first project at Udacity Front End Web Development Professional Nanodegree Program, and i used the udacity strater code which is the design**
  # landing-page
